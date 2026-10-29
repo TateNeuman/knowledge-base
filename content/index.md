@@ -1,5 +1,5 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: Tate's Knowledge Base
 ---
 # Welcome to My Knowledge Base
 
