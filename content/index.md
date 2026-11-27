@@ -15,3 +15,7 @@ I will be using this website to record my learning, share any helpful informatio
 - [[cybersecurity/index|Cybersecurity]]
 - [[software-tools/index|Software Tools]]
 - [[career-development/index|Career Development]]
+
+## Course Assignments
+
+- [[org-system-analysis|Assignment 02: Analyzing an Organizing System]]
