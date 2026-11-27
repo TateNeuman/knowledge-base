@@ -39,3 +39,24 @@ One of the advantages of using neural networks is the ability to find complicate
 Another disadvantage of neural networks is the difficulty in understanding the logic used by the neural network in certain cases. It is connected to AI Ethics when the AI has consequences for the life of a person.
 
 By studying neural networks, we understand the working principle of most AI systems.
+
+## Neural Network Diagram
+
+
+![[neural-network.svg]]
+
+Figure 1: A simple neural network showing how
+information moves from the input layer through
+the hidden layer to the output layer.
+
+Image source: [Glosser.ca, Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Colored_neural_network.svg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
+
+## Additional Learning Resource
+
+This PDF provides an introduction to neural
+networks and deep learning.
+
+![[assets/neural-networks.pdf]]
+
+Source: MIT OpenCourseWare (2024).
+Introduction to Neural Networks and Deep Learning.
